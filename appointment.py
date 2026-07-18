@@ -1,1 +1,0 @@
-print("hosptital repositary system")
